@@ -1,5 +1,7 @@
 #Strogonoff de Frango:chicken:
+
 ###Ingredientes:
+
  - 500g de peito de frango
  - 1 colher (de sopa) de manteiga ou margarina
  - 1/2 cebola picada ou ralada
